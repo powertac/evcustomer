@@ -10,7 +10,7 @@
 
   <artifactId>evcustomer</artifactId>
   <name>Power TAC ev customer</name>
-  <version>1.2.2</version>
+  <version>1.2.3-SNAPSHOT</version>
   <description>Bottom-up model of a electric vehicle customer</description>
 
   <repositories>
