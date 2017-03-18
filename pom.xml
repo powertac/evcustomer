@@ -5,7 +5,7 @@
 
   <artifactId>evcustomer</artifactId>
   <packaging>jar</packaging>
-  <version>1.4.1</version>
+  <version>1.4.2-SNAPSHOT</version>
 
   <name>Power TAC ev customer</name>
   <description>Bottom-up model of an electric vehicle customer</description>
@@ -48,7 +48,7 @@
     <connection>scm:git:git//github.com/powertac/evcustomer.git</connection>
     <developerConnection>scm:git:git@github.com:powertac/evcustomer.git</developerConnection>
     <url>https://github.com/powertac/evcustomer/</url>
-    <tag>evcustomer-1.4.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 
